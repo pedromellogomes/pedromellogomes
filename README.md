@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @pedromellogomes 
-I'm a Software Engineer at [@GOVBR][current_linkedin_company] and currently living in Brasil 🇧🇷
+I'm a Software Engineer at [@Lanchester][current_linkedin_company] and currently living in UK 🇧🇷
 
 👀 I’m interested in solve daily problems with tech \
 🌱 I’m currently learning everything everyday 🤣 \
@@ -22,4 +22,4 @@ I'm a Software Engineer at [@GOVBR][current_linkedin_company] and currently livi
 <!-- LINK REFERENCES -->
 [twitter]: https://twitter.com/_pedromello
 [linkedin]: https://www.linkedin.com/in/pedromellogomes/
-[current_linkedin_company]:https://www.linkedin.com/company/governancabrasil/mycompany/verification/
+[current_linkedin_company]: https://www.linkedin.com/company/lanchester-group/
