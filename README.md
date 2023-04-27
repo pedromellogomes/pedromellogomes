@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @pedromellogomes 
-I'm a Software Engineer at [@Lanchester][current_linkedin_company] and currently living in UK 🇧🇷
+I'm a Full Stack Software Engineer at [@Lanchester][current_linkedin_company] and currently living in UK.
 
 👀 I’m interested in solve daily problems with tech \
 🌱 I’m currently learning everything everyday 🤣 \
